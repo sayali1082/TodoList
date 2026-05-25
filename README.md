@@ -62,11 +62,6 @@ Feel free to contribute to this project by creating a pull request. We welcome a
 
 ## Thanks to all Contributors 💪
 
-<a href="https://github.com/Kritika30032002/To-Do-List-Application/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Kritika30032002/To-Do-List-Application"/>
-</a>  <br>
 Thanks a lot for spending your time. <br>
 Keep rocking 🍻 <br>
 Also Give it a Star 🌟, If you loved contributing to the project.
-
-## [MIT Licensed](https://github.com/Kritika30032002/To-Do-List-Application/blob/main/LICENSE)
